@@ -50,7 +50,7 @@ This was my first time exploring a dataset end-to-end. I learned a ton about:
 - How to turn raw info into real insight
 - Why visualizations matter (and what they can reveal!)
 
-I'm excited to keep building, keep learning — and eventually add SQL queries and dashboards to this too. 🚀
+I'm excited to keep building, keep learning 🚀
 
 ---
 
