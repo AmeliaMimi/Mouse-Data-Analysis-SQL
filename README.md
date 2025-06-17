@@ -3,7 +3,10 @@
 Hi! I’m Amelia — a beginner data analyst diving into real-world data using SQL, Python, and visualization tools.  
 This project is my way of learning by doing: cleaning messy data, exploring trends, and building insights from scratch.
 
-![Notebook Preview](images/mouse_sql_thumbnail.png)
+<p align="center">
+  <img src="images/mouse_sql_thumbnail.png" alt="Notebook Preview - Mouse Data Analysis" width="800">
+</p>
+
 
 ---
 
