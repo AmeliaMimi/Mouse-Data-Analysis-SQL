@@ -57,5 +57,5 @@ I'm excited to keep building, keep learning 🚀
 ---
 
 Thanks for checking it out!  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/amelia-mimi-b0103b337) 💬  
+
 
